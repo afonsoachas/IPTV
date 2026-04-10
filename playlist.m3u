@@ -1,1 +1,429 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+http://nocable.cc:8080/5AGbfz/324331/35254
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+http://nocable.cc:8080/5AGbfz/324331/35251
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+http://nocable.cc:8080/5AGbfz/324331/35248
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+http://nocable.cc:8080/5AGbfz/324331/35253
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+http://nocable.cc:8080/5AGbfz/324331/35252
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+http://nocable.cc:8080/5AGbfz/324331/35249
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
+http://nocable.cc:8080/5AGbfz/324331/79108
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK-5 " tvg-logo="" group-title="UK UNITED KINGDOM",UK-5 
+http://nocable.cc:8080/5AGbfz/324331/53675
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK-Alibi" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Alibi
+http://nocable.cc:8080/5AGbfz/324331/59030
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC NEWS
+http://nocable.cc:8080/5AGbfz/324331/53757
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One
+http://nocable.cc:8080/5AGbfz/324331/53649
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK-BBC One Scotland" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One Scotland
+http://nocable.cc:8080/5AGbfz/324331/53755
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+http://nocable.cc:8080/5AGbfz/324331/53650
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK-Blaze" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Blaze
+http://nocable.cc:8080/5AGbfz/324331/53754
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK-Boomerang" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Boomerang
+http://nocable.cc:8080/5AGbfz/324331/53718
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK-Cartoon Network" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Cartoon Network
+http://nocable.cc:8080/5AGbfz/324331/53719
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK-CBBC" tvg-logo="" group-title="UK UNITED KINGDOM",UK-CBBC
+http://nocable.cc:8080/5AGbfz/324331/53720
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK CBS Reality" tvg-logo="" group-title="UK UNITED KINGDOM",UK CBS Reality
+http://nocable.cc:8080/5AGbfz/324331/53752
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Channel 5
+http://nocable.cc:8080/5AGbfz/324331/53653
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK-Comedy Central" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Comedy Central
+http://nocable.cc:8080/5AGbfz/324331/53660
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Crime & Investigation FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Crime & Investigation FHD (D)
+http://nocable.cc:8080/5AGbfz/324331/53689
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK-Dave" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Dave
+http://nocable.cc:8080/5AGbfz/324331/53659
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK-Discovery Channel" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Channel
+http://nocable.cc:8080/5AGbfz/324331/53684
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK-Discovery History" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery History
+http://nocable.cc:8080/5AGbfz/324331/53694
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK-Discovery Science" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Science
+http://nocable.cc:8080/5AGbfz/324331/53695
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK-Drama" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Drama
+http://nocable.cc:8080/5AGbfz/324331/53677
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK-E4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-E4
+http://nocable.cc:8080/5AGbfz/324331/53672
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="UK UNITED KINGDOM",UK EuroSport 1 UK (P)
+http://nocable.cc:8080/5AGbfz/324331/53713
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK-Film 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Film 4
+http://nocable.cc:8080/5AGbfz/324331/53702
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK-H2" tvg-logo="" group-title="UK UNITED KINGDOM",UK-H2
+http://nocable.cc:8080/5AGbfz/324331/53692
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK History  Channel" tvg-logo="" group-title="UK UNITED KINGDOM",UK History  Channel
+http://nocable.cc:8080/5AGbfz/324331/53686
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK-Investigation Discovery" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Investigation Discovery
+http://nocable.cc:8080/5AGbfz/324331/53687
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV
+http://nocable.cc:8080/5AGbfz/324331/53651
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK-ITV 3" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV 3
+http://nocable.cc:8080/5AGbfz/324331/53665
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK-ITV 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV 4
+http://nocable.cc:8080/5AGbfz/324331/53666
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2 HD " tvg-logo="" group-title="UK UNITED KINGDOM",UK ITV2 HD 
+http://nocable.cc:8080/5AGbfz/324331/53671
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK-More4" tvg-logo="" group-title="UK UNITED KINGDOM",UK-More4
+http://nocable.cc:8080/5AGbfz/324331/53673
+#EXTINF:-1 tvg-id="mtv.classic.gb" tvg-name="US MTV Classic (A)" tvg-logo="" group-title="UK UNITED KINGDOM",US MTV Classic (A)
+http://nocable.cc:8080/5AGbfz/324331/53734
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK-MTV Hits" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV Hits
+http://nocable.cc:8080/5AGbfz/324331/53735
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK-MTV UK" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV UK
+http://nocable.cc:8080/5AGbfz/324331/53737
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK-MUTV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MUTV
+http://nocable.cc:8080/5AGbfz/324331/53717
+#EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK-Nat Geo Wild" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Nat Geo Wild
+http://nocable.cc:8080/5AGbfz/324331/53693
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="" group-title="UK UNITED KINGDOM",UK: NICKELODEON
+http://nocable.cc:8080/5AGbfz/324331/53728
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK-Quest" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Quest
+http://nocable.cc:8080/5AGbfz/324331/53682
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: RACING UK" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RACING UK
+http://nocable.cc:8080/5AGbfz/324331/53741
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK-Sky Cinema Animation" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Animation
+http://nocable.cc:8080/5AGbfz/324331/53698
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK-Sky Cinema Family" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Family
+http://nocable.cc:8080/5AGbfz/324331/53699
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://nocable.cc:8080/5AGbfz/324331/35256
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK Sky Cinema Comedy " tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Cinema Comedy 
+http://nocable.cc:8080/5AGbfz/324331/53661
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: SKY NEWS
+http://nocable.cc:8080/5AGbfz/324331/77166
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Sports Action
+http://nocable.cc:8080/5AGbfz/324331/53705
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Arena
+http://nocable.cc:8080/5AGbfz/324331/35238
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports F1 FHD (D)
+http://nocable.cc:8080/5AGbfz/324331/53704
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf FHD " tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports Golf FHD 
+http://nocable.cc:8080/5AGbfz/324331/35240
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports Main Event
+http://nocable.cc:8080/5AGbfz/324331/35243
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Sports Mix FHD (D)
+http://nocable.cc:8080/5AGbfz/324331/53706
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" tvg-logo="" group-title="Sports Fanatic's ",UK-Sky Sports News
+http://nocable.cc:8080/5AGbfz/324331/35241
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK SKY SciFI FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK SKY SciFI FHD (D)
+http://nocable.cc:8080/5AGbfz/324331/53663
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK- Pop" tvg-logo="" group-title="UK UNITED KINGDOM",UK- Pop
+http://nocable.cc:8080/5AGbfz/324331/53730
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK-TLC" tvg-logo="" group-title="UK UNITED KINGDOM",UK-TLC
+http://nocable.cc:8080/5AGbfz/324331/53681
+#EXTINF:-1 tvg-id="" tvg-name="US Willow Cricket (X)" tvg-logo="" group-title="Sports Fanatic's ",US Willow Cricket (X)
+http://nocable.cc:8080/5AGbfz/324331/41979
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK Sky Sports Cricket FHD (D)" tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports Cricket FHD (D)
+http://nocable.cc:8080/5AGbfz/324331/45940
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 FHD" tvg-logo="" group-title="Sports Fanatic's ",UK Sky Sports F1 FHD
+http://nocable.cc:8080/5AGbfz/324331/35244
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK: SKY SP RACING FHD" tvg-logo="" group-title="Sports Fanatic's ",UK: SKY SP RACING FHD
+http://nocable.cc:8080/5AGbfz/324331/76842
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Data" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Data
+http://nocable.cc:8080/5AGbfz/324331/135044
+#EXTINF:-1 tvg-id="" tvg-name="F1TV:  " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV:  
+http://nocable.cc:8080/5AGbfz/324331/135045
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Tracker" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Tracker
+http://nocable.cc:8080/5AGbfz/324331/135046
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Fernando Alonso Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Fernando Alonso Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135047
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Valtteri Bottas Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Valtteri Bottas Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135048
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Pierre Gasly Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Pierre Gasly Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135049
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Antonio Giovinazzi Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Antonio Giovinazzi Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135050
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Lewis Hamilton Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Lewis Hamilton Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135051
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Nicholas Latifi Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Nicholas Latifi Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135052
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Charles Leclerc Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Charles Leclerc Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135053
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Nikita Mazepin Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Nikita Mazepin Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135054
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Mick Schumacher Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Mick Schumacher Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135055
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Lando Norris Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Lando Norris Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135056
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Esteban Ocon Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Esteban Ocon Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135057
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Sergio Perez Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Sergio Perez Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135058
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Kimi Raikkonen Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Kimi Raikkonen Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135059
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Daniel Ricciardo Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Daniel Ricciardo Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135060
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: George Russell Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: George Russell Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135061
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Carlos Sainz Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Carlos Sainz Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135062
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Lance Stroll Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Lance Stroll Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135063
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Yuki Tsunoda Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Yuki Tsunoda Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135064
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Max Verstappen Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Max Verstappen Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135065
+#EXTINF:-1 tvg-id="" tvg-name="F1TV: Sebastian Vettel Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula ",F1TV: Sebastian Vettel Helmet Camera
+http://nocable.cc:8080/5AGbfz/324331/135066
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK: Channel 4
+http://nocable.cc:8080/5AGbfz/324331/99138
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 7" tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
+http://nocable.cc:8080/5AGbfz/324331/266552
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) News Now" tvg-logo="" group-title="Portugal",PT (VF) News Now
+http://nocable.cc:8080/5AGbfz/324331/266553
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TV Cine Top" tvg-logo="" group-title="Portugal",PT (VF) TV Cine Top
+http://nocable.cc:8080/5AGbfz/324331/266554
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TV Cine Emotion" tvg-logo="" group-title="Portugal",PT (VF) TV Cine Emotion
+http://nocable.cc:8080/5AGbfz/324331/266555
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TV Cine Edition" tvg-logo="" group-title="Portugal",PT (VF) TV Cine Edition
+http://nocable.cc:8080/5AGbfz/324331/266556
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TV Cine Action" tvg-logo="" group-title="Portugal",PT (VF) TV Cine Action
+http://nocable.cc:8080/5AGbfz/324331/266557
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 6" tvg-logo="" group-title="Portugal",PT (VF) Sport TV 6
+http://nocable.cc:8080/5AGbfz/324331/266558
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 5" tvg-logo="" group-title="Portugal",PT (VF) Sport TV 5
+http://nocable.cc:8080/5AGbfz/324331/266559
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 4" tvg-logo="" group-title="Portugal",PT (VF) Sport TV 4
+http://nocable.cc:8080/5AGbfz/324331/266560
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV 3" tvg-logo="" group-title="Portugal",PT (VF) Sport TV 3
+http://nocable.cc:8080/5AGbfz/324331/266561
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 5" tvg-logo="" group-title="Portugal",PT (VF) Dazn 5
+http://nocable.cc:8080/5AGbfz/324331/266562
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 4" tvg-logo="" group-title="Portugal",PT (VF) Dazn 4
+http://nocable.cc:8080/5AGbfz/324331/266563
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 3" tvg-logo="" group-title="Portugal",PT (VF) Dazn 3
+http://nocable.cc:8080/5AGbfz/324331/266564
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 2" tvg-logo="" group-title="Portugal",PT (VF) Dazn 2
+http://nocable.cc:8080/5AGbfz/324331/266565
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Dazn 1" tvg-logo="" group-title="Portugal",PT (VF) Dazn 1
+http://nocable.cc:8080/5AGbfz/324331/266566
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SportTV 2" tvg-logo="" group-title="Portugal",PT (VF) SportTV 2
+http://nocable.cc:8080/5AGbfz/324331/266567
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SPORTTV 1" tvg-logo="" group-title="Portugal",PT (VF) SPORTTV 1
+http://nocable.cc:8080/5AGbfz/324331/266568
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Kuriakos TV" tvg-logo="" group-title="Portugal",PT (VF) Kuriakos TV
+http://nocable.cc:8080/5AGbfz/324331/266569
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Unife" tvg-logo="" group-title="Portugal",PT (VF) Unife
+http://nocable.cc:8080/5AGbfz/324331/266570
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) NHK World" tvg-logo="" group-title="Portugal",PT (VF) NHK World
+http://nocable.cc:8080/5AGbfz/324331/266571
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Arirang" tvg-logo="" group-title="Portugal",PT (VF) Arirang
+http://nocable.cc:8080/5AGbfz/324331/266572
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) KBS World" tvg-logo="" group-title="Portugal",PT (VF) KBS World
+http://nocable.cc:8080/5AGbfz/324331/266573
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Pro TV International" tvg-logo="" group-title="Portugal",PT (VF) Pro TV International
+http://nocable.cc:8080/5AGbfz/324331/266574
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTL" tvg-logo="" group-title="Portugal",PT (VF) RTL
+http://nocable.cc:8080/5AGbfz/324331/266575
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Rai Uno" tvg-logo="" group-title="Portugal",PT (VF) Rai Uno
+http://nocable.cc:8080/5AGbfz/324331/266576
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TVE" tvg-logo="" group-title="Portugal",PT (VF) TVE
+http://nocable.cc:8080/5AGbfz/324331/266577
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) G" tvg-logo="" group-title="Portugal",PT (VF) G
+http://nocable.cc:8080/5AGbfz/324331/266578
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TPA" tvg-logo="" group-title="Portugal",PT (VF) TPA
+http://nocable.cc:8080/5AGbfz/324331/266579
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTP Africa" tvg-logo="" group-title="Portugal",PT (VF) RTP Africa
+http://nocable.cc:8080/5AGbfz/324331/266580
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) LV TV" tvg-logo="" group-title="Portugal",PT (VF) LV TV
+http://nocable.cc:8080/5AGbfz/324331/266581
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) China Channel" tvg-logo="" group-title="Portugal",PT (VF) China Channel
+http://nocable.cc:8080/5AGbfz/324331/266582
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TVC News" tvg-logo="" group-title="Portugal",PT (VF) TVC News
+http://nocable.cc:8080/5AGbfz/324331/266583
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) France 24 English" tvg-logo="" group-title="Portugal",PT (VF) France 24 English
+http://nocable.cc:8080/5AGbfz/324331/266584
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) France 24" tvg-logo="" group-title="Portugal",PT (VF) France 24
+http://nocable.cc:8080/5AGbfz/324331/266585
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) DW" tvg-logo="" group-title="Portugal",PT (VF) DW
+http://nocable.cc:8080/5AGbfz/324331/266586
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) 24 Horas" tvg-logo="" group-title="Portugal",PT (VF) 24 Horas
+http://nocable.cc:8080/5AGbfz/324331/266587
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Aljazeera" tvg-logo="" group-title="Portugal",PT (VF) Aljazeera
+http://nocable.cc:8080/5AGbfz/324331/266588
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) CNBC" tvg-logo="" group-title="Portugal",PT (VF) CNBC
+http://nocable.cc:8080/5AGbfz/324331/266589
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sky News" tvg-logo="" group-title="Portugal",PT (VF) Sky News
+http://nocable.cc:8080/5AGbfz/324331/266590
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Bloomberg" tvg-logo="" group-title="Portugal",PT (VF) Bloomberg
+http://nocable.cc:8080/5AGbfz/324331/266591
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Euro News" tvg-logo="" group-title="Portugal",PT (VF) Euro News
+http://nocable.cc:8080/5AGbfz/324331/266592
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Record News" tvg-logo="" group-title="Portugal",PT (VF) Record News
+http://nocable.cc:8080/5AGbfz/324331/266593
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AR TV" tvg-logo="" group-title="Portugal",PT (VF) AR TV
+http://nocable.cc:8080/5AGbfz/324331/266594
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Game Toon" tvg-logo="" group-title="Portugal",PT (VF) Game Toon
+http://nocable.cc:8080/5AGbfz/324331/266595
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fashion TV" tvg-logo="" group-title="Portugal",PT (VF) Fashion TV
+http://nocable.cc:8080/5AGbfz/324331/266596
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) E!" tvg-logo="" group-title="Portugal",PT (VF) E!
+http://nocable.cc:8080/5AGbfz/324331/266597
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AMC Break" tvg-logo="" group-title="Portugal",PT (VF) AMC Break
+http://nocable.cc:8080/5AGbfz/324331/266598
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Globo Now" tvg-logo="" group-title="Portugal",PT (VF) Globo Now
+http://nocable.cc:8080/5AGbfz/324331/266599
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TVI Reality" tvg-logo="" group-title="Portugal",PT (VF) TVI Reality
+http://nocable.cc:8080/5AGbfz/324331/266600
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Casa e Cozinha" tvg-logo="" group-title="Portugal",PT (VF) Casa e Cozinha
+http://nocable.cc:8080/5AGbfz/324331/266601
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) S Plus" tvg-logo="" group-title="Portugal",PT (VF) S Plus
+http://nocable.cc:8080/5AGbfz/324331/266602
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AMC Crime" tvg-logo="" group-title="Portugal",PT (VF) AMC Crime
+http://nocable.cc:8080/5AGbfz/324331/266603
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Docu Box" tvg-logo="" group-title="Portugal",PT (VF) Docu Box
+http://nocable.cc:8080/5AGbfz/324331/266604
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Odisseia" tvg-logo="" group-title="Portugal",PT (VF) Odisseia
+http://nocable.cc:8080/5AGbfz/324331/266605
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Nat Geo Wild" tvg-logo="" group-title="Portugal",PT (VF) Nat Geo Wild
+http://nocable.cc:8080/5AGbfz/324331/266606
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Netional Geographic" tvg-logo="" group-title="Portugal",PT (VF) Netional Geographic
+http://nocable.cc:8080/5AGbfz/324331/266607
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Discovery Channel" tvg-logo="" group-title="Portugal",PT (VF) Discovery Channel
+http://nocable.cc:8080/5AGbfz/324331/266608
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Mezzo Live" tvg-logo="" group-title="Portugal",PT (VF) Mezzo Live
+http://nocable.cc:8080/5AGbfz/324331/266609
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Trace Toca" tvg-logo="" group-title="Portugal",PT (VF) Trace Toca
+http://nocable.cc:8080/5AGbfz/324331/266610
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Trace Urban" tvg-logo="" group-title="Portugal",PT (VF) Trace Urban
+http://nocable.cc:8080/5AGbfz/324331/266611
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Stingray Cmusic" tvg-logo="" group-title="Portugal",PT (VF) Stingray Cmusic
+http://nocable.cc:8080/5AGbfz/324331/266612
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) MCM Top" tvg-logo="" group-title="Portugal",PT (VF) MCM Top
+http://nocable.cc:8080/5AGbfz/324331/266613
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) MTV" tvg-logo="" group-title="Portugal",PT (VF) MTV
+http://nocable.cc:8080/5AGbfz/324331/266614
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Canal Q" tvg-logo="" group-title="Portugal",PT (VF) Canal Q
+http://nocable.cc:8080/5AGbfz/324331/266615
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AMC" tvg-logo="" group-title="Portugal",PT (VF) AMC
+http://nocable.cc:8080/5AGbfz/324331/266616
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SYFY" tvg-logo="" group-title="Portugal",PT (VF) SYFY
+http://nocable.cc:8080/5AGbfz/324331/266617
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SYFY" tvg-logo="" group-title="Portugal",PT (VF) SYFY
+http://nocable.cc:8080/5AGbfz/324331/266618
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AXN Movies" tvg-logo="" group-title="Portugal",PT (VF) AXN Movies
+http://nocable.cc:8080/5AGbfz/324331/266619
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AXN White" tvg-logo="" group-title="Portugal",PT (VF) AXN White
+http://nocable.cc:8080/5AGbfz/324331/266620
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fox Comedy" tvg-logo="" group-title="Portugal",PT (VF) Fox Comedy
+http://nocable.cc:8080/5AGbfz/324331/266621
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fox Crime" tvg-logo="" group-title="Portugal",PT (VF) Fox Crime
+http://nocable.cc:8080/5AGbfz/324331/266622
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fox Life" tvg-logo="" group-title="Portugal",PT (VF) Fox Life
+http://nocable.cc:8080/5AGbfz/324331/266623
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) AXN" tvg-logo="" group-title="Portugal",PT (VF) AXN
+http://nocable.cc:8080/5AGbfz/324331/266624
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fox" tvg-logo="" group-title="Portugal",PT (VF) Fox
+http://nocable.cc:8080/5AGbfz/324331/266625
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fox Movies" tvg-logo="" group-title="Portugal",PT (VF) Fox Movies
+http://nocable.cc:8080/5AGbfz/324331/266626
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Cinemundo" tvg-logo="" group-title="Portugal",PT (VF) Cinemundo
+http://nocable.cc:8080/5AGbfz/324331/266627
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Canal Hollywood" tvg-logo="" group-title="Portugal",PT (VF) Canal Hollywood
+http://nocable.cc:8080/5AGbfz/324331/266628
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Super RTL (dizi)" tvg-logo="" group-title="Portugal",PT (VF) Super RTL (dizi)
+http://nocable.cc:8080/5AGbfz/324331/266629
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Nikelodeon" tvg-logo="" group-title="Portugal",PT (VF) Nikelodeon
+http://nocable.cc:8080/5AGbfz/324331/266630
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Cartoonito" tvg-logo="" group-title="Portugal",PT (VF) Cartoonito
+http://nocable.cc:8080/5AGbfz/324331/266631
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) K SIC" tvg-logo="" group-title="Portugal",PT (VF) K SIC
+http://nocable.cc:8080/5AGbfz/324331/266632
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Benfica TV" tvg-logo="" group-title="Portugal",PT (VF) Benfica TV
+http://nocable.cc:8080/5AGbfz/324331/266633
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Panda" tvg-logo="" group-title="Portugal",PT (VF) Panda
+http://nocable.cc:8080/5AGbfz/324331/266634
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Cartoon Network" tvg-logo="" group-title="Portugal",PT (VF) Cartoon Network
+http://nocable.cc:8080/5AGbfz/324331/266635
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Panda Kids" tvg-logo="" group-title="Portugal",PT (VF) Panda Kids
+http://nocable.cc:8080/5AGbfz/324331/266636
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Disney Junior" tvg-logo="" group-title="Portugal",PT (VF) Disney Junior
+http://nocable.cc:8080/5AGbfz/324331/266637
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Disney Channel" tvg-logo="" group-title="Portugal",PT (VF) Disney Channel
+http://nocable.cc:8080/5AGbfz/324331/266638
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Fight Box" tvg-logo="" group-title="Portugal",PT (VF) Fight Box
+http://nocable.cc:8080/5AGbfz/324331/266639
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sporting TV" tvg-logo="" group-title="Portugal",PT (VF) Sporting TV
+http://nocable.cc:8080/5AGbfz/324331/266640
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) A Bola TV" tvg-logo="" group-title="Portugal",PT (VF) A Bola TV
+http://nocable.cc:8080/5AGbfz/324331/266641
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Eurosport 2" tvg-logo="" group-title="Portugal",PT (VF) Eurosport 2
+http://nocable.cc:8080/5AGbfz/324331/266642
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Eurosport 1" tvg-logo="" group-title="Portugal",PT (VF) Eurosport 1
+http://nocable.cc:8080/5AGbfz/324331/266643
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) 24 Kitchen" tvg-logo="" group-title="Portugal",PT (VF) 24 Kitchen
+http://nocable.cc:8080/5AGbfz/324331/266644
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTP Memoria" tvg-logo="" group-title="Portugal",PT (VF) RTP Memoria
+http://nocable.cc:8080/5AGbfz/324331/266645
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SIC Radical" tvg-logo="" group-title="Portugal",PT (VF) SIC Radical
+http://nocable.cc:8080/5AGbfz/324331/266646
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SIC Caras" tvg-logo="" group-title="Portugal",PT (VF) SIC Caras
+http://nocable.cc:8080/5AGbfz/324331/266647
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Porto Canal" tvg-logo="" group-title="Portugal",PT (VF) Porto Canal
+http://nocable.cc:8080/5AGbfz/324331/266648
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TVI Ficcao" tvg-logo="" group-title="Portugal",PT (VF) TVI Ficcao
+http://nocable.cc:8080/5AGbfz/324331/266649
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Canal 11" tvg-logo="" group-title="Portugal",PT (VF) Canal 11
+http://nocable.cc:8080/5AGbfz/324331/266650
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) Sport TV Plus" tvg-logo="" group-title="Portugal",PT (VF) Sport TV Plus
+http://nocable.cc:8080/5AGbfz/324331/266651
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) CM TV" tvg-logo="" group-title="Portugal",PT (VF) CM TV
+http://nocable.cc:8080/5AGbfz/324331/266652
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SIC Noticias" tvg-logo="" group-title="Portugal",PT (VF) SIC Noticias
+http://nocable.cc:8080/5AGbfz/324331/266653
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) TVI" tvg-logo="" group-title="Portugal",PT (VF) TVI
+http://nocable.cc:8080/5AGbfz/324331/266654
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) SIC" tvg-logo="" group-title="Portugal",PT (VF) SIC
+http://nocable.cc:8080/5AGbfz/324331/266655
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTP 3" tvg-logo="" group-title="Portugal",PT (VF) RTP 3
+http://nocable.cc:8080/5AGbfz/324331/266656
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTP 2" tvg-logo="" group-title="Portugal",PT (VF) RTP 2
+http://nocable.cc:8080/5AGbfz/324331/266657
+#EXTINF:-1 tvg-id="" tvg-name="PT (VF) RTP 1" tvg-logo="" group-title="Portugal",PT (VF) RTP 1
+http://nocable.cc:8080/5AGbfz/324331/266658
+#EXTINF:-1 tvg-id="" tvg-name="PT KKTV ANGOLA (D)" tvg-logo="" group-title="Portugal",PT KKTV ANGOLA (D)
+http://nocable.cc:8080/5AGbfz/324331/266659
+#EXTINF:-1 tvg-id="" tvg-name="PT Kuriakos Kids (D)" tvg-logo="" group-title="Portugal",PT Kuriakos Kids (D)
+http://nocable.cc:8080/5AGbfz/324331/266660
+#EXTINF:-1 tvg-id="" tvg-name="PT Kuriakos Cine (D)" tvg-logo="" group-title="Portugal",PT Kuriakos Cine (D)
+http://nocable.cc:8080/5AGbfz/324331/266661
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManArgentina (D)" tvg-logo="" group-title="Portugal",PT TV ManArgentina (D)
+http://nocable.cc:8080/5AGbfz/324331/266662
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManHindi (D)" tvg-logo="" group-title="Portugal",PT TV ManHindi (D)
+http://nocable.cc:8080/5AGbfz/324331/266663
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManVash (D)" tvg-logo="" group-title="Portugal",PT TV ManVash (D)
+http://nocable.cc:8080/5AGbfz/324331/266664
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManIGREJA (D)" tvg-logo="" group-title="Portugal",PT TV ManIGREJA (D)
+http://nocable.cc:8080/5AGbfz/324331/266665
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManEnglish (D)" tvg-logo="" group-title="Portugal",PT TV ManEnglish (D)
+http://nocable.cc:8080/5AGbfz/324331/266666
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManEspanhol (D)" tvg-logo="" group-title="Portugal",PT TV ManEspanhol (D)
+http://nocable.cc:8080/5AGbfz/324331/266667
+#EXTINF:-1 tvg-id="" tvg-name="PT TV Man2 (D)" tvg-logo="" group-title="Portugal",PT TV Man2 (D)
+http://nocable.cc:8080/5AGbfz/324331/266668
+#EXTINF:-1 tvg-id="" tvg-name="PT TV Man1 (D)" tvg-logo="" group-title="Portugal",PT TV Man1 (D)
+http://nocable.cc:8080/5AGbfz/324331/266669
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManMombique (D)" tvg-logo="" group-title="Portugal",PT TV ManMombique (D)
+http://nocable.cc:8080/5AGbfz/324331/266670
+#EXTINF:-1 tvg-id="" tvg-name="PT TV ManBrasil (D)" tvg-logo="" group-title="Portugal",PT TV ManBrasil (D)
+http://nocable.cc:8080/5AGbfz/324331/266671
+#EXTINF:-1 tvg-id="" tvg-name="PT (OP) SIC (D)" tvg-logo="" group-title="Portugal",PT (OP) SIC (D)
+http://nocable.cc:8080/5AGbfz/324331/266672
+#EXTINF:-1 tvg-id="" tvg-name="PT (OP) SIC Alta Defincao (D)" tvg-logo="" group-title="Portugal",PT (OP) SIC Alta Defincao (D)
+http://nocable.cc:8080/5AGbfz/324331/266673
+#EXTINF:-1 tvg-id="" tvg-name="PT (OP) SIC Noticias (D)" tvg-logo="" group-title="Portugal",PT (OP) SIC Noticias (D)
+http://nocable.cc:8080/5AGbfz/324331/266674
+#EXTINF:-1 tvg-id="" tvg-name="PT (OP) SIC Replay (D)" tvg-logo="" group-title="Portugal",PT (OP) SIC Replay (D)
+http://nocable.cc:8080/5AGbfz/324331/266675
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: SKY SPORTS ARENA FHD" tvg-logo="" group-title="Sports Fanatic's ",UK: SKY SPORTS ARENA FHD
+http://nocable.cc:8080/5AGbfz/324331/137719
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="Sports Fanatic's ",UK: SKY SPORTS MAIN EVENT HD
+http://nocable.cc:8080/5AGbfz/324331/137720
